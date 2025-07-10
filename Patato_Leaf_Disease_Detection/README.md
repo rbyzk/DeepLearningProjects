@@ -68,18 +68,32 @@ Each model was trained using ImageDataGenerator and evaluated on a held-out vali
 
 ---
 
-## 👩‍💻 Author
+## ⬇️ Installation & Exploration  
 
-**Beyza Küçük**  
-*Data Scientist & Data Analyst*  
-📍 [Kaggle Profile](https://www.kaggle.com/beyzakucuk)
+📘 Kaggle Notebook: [Potato Leaf Disease Detection🌱 🥔](https://www.kaggle.com/code/beyzakucuk/potato-leaf-disease-detection)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and share with attribution.
+If you found this project insightful or valuable, feel free to **👍 UPVOTE** and leave a comment — your feedback is always welcome!
 
 ---
 
-> 🌱 Deep learning meets agriculture — protecting crops, one leaf at a time!
+## 🤝 Contributing  
+Contributions are always welcome!  
+If you have suggestions, improvements, or want to collaborate, feel free to **fork this repo** and submit a pull request.
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Beyza Küçük** — a **Data Scientist & Data Analyst**, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
+
+- 🌐 **Kaggle**: [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)  
+- 💻 **GitHub**: [github.com/beyzakucuk](https://github.com/beyzakucuk)  
+
+---
+ 
+✨ If this repository was helpful, please give it a ⭐ star and share it with others.
+
+---
+
+📜 License  
+This repository is licensed under the **MIT License**. See the LICENSE file for more information.
