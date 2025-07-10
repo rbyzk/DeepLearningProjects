@@ -13,7 +13,6 @@ This project applies **Convolutional Neural Networks (CNNs)** and **Transfer Lea
 📊 Compared model performance using accuracy, recall, and confusion matrices  
 ⚖️ Tackled data imbalance with augmentation and careful evaluation  
 🧬 Focused on improving recall for the minority class (Late Blight)  
-📁 Dataset: [Potato Health Dataset](https://www.kaggle.com/datasets/raju9822/potato-leaf-dataset)
 
 ---
 
